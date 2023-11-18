@@ -6,7 +6,7 @@ Chrome Extension executeScript Example In Manifest V3
 
 A basic Chrome Extension example demonstrating the use of `executeScript` in Manifest V3 to inject and execute JavaScript code on a web page.
 
-[Demo](https://youtu.be/B23-Ja64CNw)
+[Demo](https://youtu.be/eKLB_UHtMuI)
 
 ## Features
 
