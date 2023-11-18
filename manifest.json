@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Coded Brainy executeScript Extension",
+    "version": "1.0",
+    "description": "Chrome Extension Example to show executeScript usage",
+    "background": {
+      "service_worker":"worker.js"
+    },
+    "permissions": ["scripting", "activeTab"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+      }
+    }
+  }
+  
